@@ -1,0 +1,3 @@
+This is table app and it is designed especially for kids.
+In this we enter any number and tap on enter button then we will find the table of that number (i.e. first 10 multiple of that number).
+On later version I will convert these number to strings so that it is readable to kids. with help of API for text to speech converter we can make app to read these table loud. In this manner it is easy for kids to remember these tables.
